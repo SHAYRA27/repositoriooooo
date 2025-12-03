@@ -1,0 +1,1 @@
+print("Em muitas das linguagens de programação o array é uma estrutura que deve ser instanciada com um tamanho fixo (O que não é o caso em JavaScript, ou Python), ou seja, se você quiser aumentar o tamanho dele, você precisa alocar um novo array e copiar o array antigo para o novo, e é assim que funciona em C, por exemplo.")
